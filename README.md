@@ -7,7 +7,6 @@
 
 🎓 I’m a 3rd-year Mobile Application & Technology student at BINUS University who loves turning ideas into mobile apps.  
 💻 I focus on building cross-platform and native applications that combine great design with solid functionality.  
-📱 Always curious, I’m exploring cloud services and AI integration to make apps smarter and more impactful.  
 
 ---
 
